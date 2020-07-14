@@ -1,2 +1,2 @@
 # Kaggle-Competitions
-Repository for my Kaggle competition submissions
+Repository for my Getting Started Kaggle competition submissions
